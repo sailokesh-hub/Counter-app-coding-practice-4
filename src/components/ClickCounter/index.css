@@ -1,0 +1,29 @@
+/* Write your CSS here */
+
+.heading-container {
+  margin: 30px;
+  width: 550px;
+}
+
+.heading {
+  font-size: 50px;
+  color: #2d3a35;
+}
+
+.count {
+  color: #c20a72;
+}
+
+.button {
+  background-color: #007bff;
+  border-style: solid 0px;
+  border-width: 0px;
+  height: 30px;
+  border-radius: 7px;
+  color: #fff;
+  padding: 10px;
+}
+
+.click-me-description {
+  font-size: 20px;
+}
